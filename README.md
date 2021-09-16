@@ -8,7 +8,7 @@ El objetivo del proyecto es realizar el diseño y la implementación de un proto
 
 El algoritmo utilizado para la construcción de este sistema ha sido You Only Look Once (YOLOv5), desarrollado por Ultralytics. Este algoritmo proporciona un gran rendimiento en la detección de objetos en tiempo real, haciendo uso de capas convolucionales. Las ventajas que lo diferencian del resto de modelos son su rapidez en el procesado y su alta precisión en la detección final.
 
-![Backbone](https://user-images.githubusercontent.com/54302649/133696566-7be1ec55-f9f9-4d8a-a436-9b88c22404df.png)   <img src="https://user-images.githubusercontent.com/54302649/133695026-10aeb159-dce5-4553-a155-aa675cf904df.png" width="450" height="232">
+![Backbone](https://user-images.githubusercontent.com/54302649/133696566-7be1ec55-f9f9-4d8a-a436-9b88c22404df.png)
 
 
 Para la implementación del prototipo se ha utilizado un triple detector sobre cada fotograma. Cada uno de dichos detectores se encarga del reconocimiento de un grupo de objetos: el primero hace uso del conjunto de datos COCO y sus correspondientes pesos pre-entrenados para la detección de elementos dinámicos como vehículos y personas; el
