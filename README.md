@@ -1,0 +1,2 @@
+# TFG
+El objetivo del proyecto es realizar el diseño y la implementación de un prototipo de sistema de ayuda a la conducción en vehículos basado en detección de objetos empleando visión artificial con Deep Learning orientado a la monitorización del entorno en un vehículo autónomo. El sistema será capaz de analizar el vídeo captado por una cámara frontal mientras se mueve el vehículo para reconocer los elementos más importantes de la vía que puedan resultar relevantes para la conducción, como otros vehículos, peatones, semáforos, señales y otras circunstancias de alerta.
